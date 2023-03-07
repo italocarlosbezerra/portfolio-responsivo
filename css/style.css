@@ -217,4 +217,8 @@ footer {
   .linkedin-wrapper {
     width: 250px;
   }
+
+  footer p {
+    font-size: 14px;
+  }
 }
