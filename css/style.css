@@ -180,4 +180,35 @@ footer {
     display: flex;
     flex-direction: column;
   }
+
+  .intro_text {
+    font-size: 36px;
+  }
+
+  .about_text {
+    padding-left: 0px;
+  }
+
+  .about_content {
+    flex-direction: column;
+  }
+
+  .about_text p {
+    text-align: center;
+    font-size: 15px;
+  }
+
+  .projects_box {
+    flex-direction: column;
+  }
+
+  .boxes {
+    margin-bottom: 25px;
+  }
+}
+
+@media only screen and (max-width: 321px) {
+  .linkedin-wrapper {
+    width: 250px;
+  }
 }
