@@ -193,6 +193,10 @@ footer {
     flex-direction: column;
   }
 
+  .about_image img {
+    width: 270px;
+  }
+
   .about_text p {
     text-align: center;
     font-size: 15px;
@@ -204,6 +208,8 @@ footer {
 
   .boxes {
     margin-bottom: 25px;
+    width: 260px;
+    height: 220px;
   }
 }
 
